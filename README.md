@@ -9,7 +9,8 @@
 * Autoreload with Browsersync
 * Autoprefixing CSS
 * Minifying CSS with cssnano plugin
-* Simple gulpconfig file
+## Run with:
+`gulp`
 ## Warning!
 > Your SASS files must be in ./sass directory and HTML file in core directory. Include CSS files via ./dist/(style).css
 ## Where my CSS files?
